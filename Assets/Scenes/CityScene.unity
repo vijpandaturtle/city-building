@@ -343,6 +343,7 @@ MonoBehaviour:
   - {fileID: 151704, guid: 43cefcf568e58d84d802bbb3c6a74777, type: 3}
   - {fileID: 189348, guid: d597a8fa6b192c545bbae896e4d42a21, type: 3}
   - {fileID: 117616, guid: b2fcb4869e568194ebff11fc13530282, type: 3}
+  - {fileID: 7608420898808938179, guid: 223d9ba2a26392640851299cede88984, type: 3}
   mapWidth: 20
   mapHeight: 20
 --- !u!1 &1878423208
