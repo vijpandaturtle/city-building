@@ -344,8 +344,14 @@ MonoBehaviour:
   - {fileID: 189348, guid: d597a8fa6b192c545bbae896e4d42a21, type: 3}
   - {fileID: 117616, guid: b2fcb4869e568194ebff11fc13530282, type: 3}
   - {fileID: 7608420898808938179, guid: 223d9ba2a26392640851299cede88984, type: 3}
-  mapWidth: 20
-  mapHeight: 20
+  xstreets: {fileID: 2891646142440807622, guid: 2e3e3855d29103040910b2421efbe0e0,
+    type: 3}
+  zstreets: {fileID: 8900418120962996534, guid: 939bcd5bb54be4949bf4af513594c5ef,
+    type: 3}
+  crossroad: {fileID: 3334942196818292478, guid: 1d03d1dd5c4e2944b98ddd573b41f9d4,
+    type: 3}
+  mapWidth: 50
+  mapHeight: 50
 --- !u!1 &1878423208
 GameObject:
   m_ObjectHideFlags: 0
